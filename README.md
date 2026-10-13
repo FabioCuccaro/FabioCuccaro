@@ -31,7 +31,7 @@ I turn data and business processes into analytics solutions that people actually
 
 ## 📌 Projects
 
-- **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: [one-line description]
+- **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: An Omarchy shell plugin to arrange your displays visually: drag monitors into place with snapping, pick resolution, scale, rotation, VRR and mirroring, try the layout live with an automatic rollback, then save
 
 **Development & tooling**
 
