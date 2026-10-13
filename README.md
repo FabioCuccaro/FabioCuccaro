@@ -20,14 +20,22 @@ I turn data and business processes into analytics solutions that people actually
 
 **Data & BI**
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_Data_Services-0FAAFF?style=flat&logo=sap&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat)
-![SSAS](https://img.shields.io/badge/Tabular_/_Analysis_Services-5C2D91?style=flat)
-![Paginated Reports](https://img.shields.io/badge/Paginated_Reports-F2C811?style=flat)
+<p align="center">
+
+<img src="https://davidalzamendi.com/wp-content/uploads/2023/05/Fabric_final_x256.png" height="48" alt="Power BI" title="Fabric" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="48" alt="Power BI" title="Power BI" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48" alt="Excel" title="Excel" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48" alt="SQL Server" title="SQL Server" />
+<br/><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="48" alt="Git" title="Git" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="48" alt="GitHub" title="GitHub" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="48" alt="VS Code" title="VS Code" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude" title="Claude" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48" alt="ChatGPT" title="ChatGPT" />
+</p>
+
+<br/>
+
 
 ## 📌 Projects
 
