@@ -50,6 +50,13 @@ I turn data and business processes into analytics solutions that people actually
 
 ## 🏅 Certifications
 
-- **Microsoft Certified: Fabric Data Engineer Associate** (Microsoft, Jan 2025)
+<a href="https://learn.microsoft.com/en-us/users/fabiocuccaro-9952/credentials/ea86da04af07f9ca">
+  <img src="https://vaclavryska.com/wp-content/uploads/2021/03/microsoft-certified-associate-badge.svg" height="48" align="left" hspace="12" alt="Microsoft Certified: Associate badge" title="Microsoft Certified: Fabric Data Engineer Associate (DP-700)" />
+</a>
+
+**Microsoft Certified: Fabric Data Engineer Associate** (DP-700)<br>
+Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/users/fabiocuccaro-9952/credentials/ea86da04af07f9ca)
+
+<br clear="left" />
 
 **Core skills:** Project Management · ETL · Data Modeling · Team Coordination
