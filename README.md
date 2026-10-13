@@ -29,6 +29,10 @@ I turn data and business processes into analytics solutions that people actually
 ![SSAS](https://img.shields.io/badge/Tabular_/_Analysis_Services-5C2D91?style=flat)
 ![Paginated Reports](https://img.shields.io/badge/Paginated_Reports-F2C811?style=flat)
 
+## 📌 Projects
+
+- **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: [one-line description]
+
 **Development & tooling**
 
 
