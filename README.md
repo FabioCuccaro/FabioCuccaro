@@ -4,7 +4,7 @@ I turn data and business processes into analytics solutions that people actually
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-cuccaro-91007487"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-F27D0D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:whisperer100@gmail.com"><img src="https://img.shields.io/badge/Email-F27D0D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 🙋 About me
@@ -16,49 +16,30 @@ I turn data and business processes into analytics solutions that people actually
 - 🛠️ On the side, I build tools for Linux/Hyprland ([Omarchy](https://omarchy.org)) and tinker with Lua/LÖVE, Strudel and Power BI
 - 🤖 I use Claude Code in my development workflow
 
-## 🧰 Tech I work with
+**Core skills:** Project Management · ETL · Data Modeling · Team Coordination
 
-<br/>
+## 🧰 Tech I work with
 
 **Data & BI**
 
 <p align="center">
-
-<img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" height="48" alt="Power BI" title="Fabric" />
+<img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" height="48" alt="Fabric" title="Fabric" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="48" alt="Power BI" title="Power BI" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48" alt="Excel" title="Excel" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48" alt="SQL Server" title="SQL Server" />
-<br/><br/>
+</p>
+
+**Development & tooling**
+
+<p align="center">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="48" alt="Git" title="Git" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="48" alt="GitHub" title="GitHub" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="48" alt="VS Code" title="VS Code" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude" title="Claude" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48" alt="ChatGPT" title="ChatGPT" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="48" alt="ChatGPT" title="Visual Studio" />
+<br/><br/>
+<a href="https://omarchy.org"><img src="https://omarchy.org/brand/omarchy-wordmark.png" height="28" alt="Omarchy" title="Omarchy" /></a>
 </p>
-
-<br/>
-
-
-## 📌 Projects
-
-- **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: An Omarchy shell plugin to arrange your displays visually: drag monitors into place with snapping, pick resolution, scale, rotation, VRR and mirroring, try the layout live with an automatic rollback, then save
-
-- **[ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale)**: Reach your UGREEN NAS (UGOS) from anywhere with Tailscale in Docker: no open ports, no Quick access or UGREENlink. Step-by-step guide and ready-to-paste compose files.
-
-<br/>
-
-## 🏠 Home lab
-
-A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and nothing exposed to the internet: from outside, everything goes through Tailscale.
-
-- 🔐 **Tailscale**: private access to the NAS from phone and laptops, with no open ports ([guide and compose](https://github.com/FabioCuccaro/ugreen_tailscale))
-- 🔔 **ntfy**: self-hosted push notifications to my phone, login required, reachable only over Tailscale ([guide](https://github.com/FabioCuccaro/ugreen_tailscale/blob/main/docs/ntfy.md))
-- ❤️ **Health dashboard**: an ETL and dashboard on my Oura Ring data, built with Observable Framework (private repo)
-- 📸 **Immich** *(in progress)*: moving off Google Photos to a self-hosted library, reading the phone backup the NAS already syncs
-- 🎬 **Plex** and **qBittorrent** for media
-
-<br/>
-
 
 ## 🏅 Certifications
 
@@ -69,16 +50,20 @@ A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and no
 **Microsoft Certified: Fabric Data Engineer Associate** (DP-700)<br>
 Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/users/fabiocuccaro-9952/credentials/ea86da04af07f9ca)
 
+<br clear="left"/>
 
+## 📌 Projects
 
-**Development & tooling**
+- **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: An Omarchy shell plugin to arrange your displays visually: drag monitors into place with snapping, pick resolution, scale, rotation, VRR and mirroring, try the layout live with an automatic rollback, then save
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+- **[ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale)**: Reach your UGREEN NAS (UGOS) from anywhere with Tailscale in Docker: no open ports, no Quick access or UGREENlink. Step-by-step guide and ready-to-paste compose files.
 
-<br/>
-<br/>
+## 🏠 Home lab
 
+A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and nothing exposed to the internet: from outside, everything goes through Tailscale.
 
-**Core skills:** Project Management · ETL · Data Modeling · Team Coordination
+- 🔐 **Tailscale**: private access to the NAS from phone and laptops, with no open ports ([guide and compose](https://github.com/FabioCuccaro/ugreen_tailscale))
+- 🔔 **ntfy**: self-hosted push notifications to my phone, login required, reachable only over Tailscale ([guide](https://github.com/FabioCuccaro/ugreen_tailscale/blob/main/docs/ntfy.md))
+- ❤️ **Health dashboard**: an ETL and dashboard on my Oura Ring data, built with Observable Framework (private repo)
+- 📸 **Immich** *(in progress)*: moving off Google Photos to a self-hosted library, reading the phone backup the NAS already syncs
+- 🎬 **Plex** and **qBittorrent** for media
