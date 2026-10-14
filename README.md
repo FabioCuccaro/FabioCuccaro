@@ -41,8 +41,10 @@ I turn data and business processes into analytics solutions that people actually
 
 - **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: An Omarchy shell plugin to arrange your displays visually: drag monitors into place with snapping, pick resolution, scale, rotation, VRR and mirroring, try the layout live with an automatic rollback, then save
 
-**Development & tooling**
+- **[ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale)**: Reach your UGREEN NAS (UGOS) from anywhere with Tailscale in Docker: no open ports, no Quick access or UGREENlink. Step-by-step guide and ready-to-paste compose files.
 
+
+**Development & tooling**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
