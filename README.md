@@ -54,15 +54,17 @@ I turn data and business processes into analytics solutions that people actually
   <img src="https://vaclavryska.com/wp-content/uploads/2021/03/microsoft-certified-associate-badge.svg" height="48" align="left" hspace="12" alt="Microsoft Certified: Associate badge" title="Microsoft Certified: Fabric Data Engineer Associate (DP-700)" />
 </a>
 
-**Development & tooling**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+
 
 **Microsoft Certified: Fabric Data Engineer Associate** (DP-700)<br>
 Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/users/fabiocuccaro-9952/credentials/ea86da04af07f9ca)
 
 <br clear="left" />
+
+**Development & tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 **Core skills:** Project Management · ETL · Data Modeling · Team Coordination
