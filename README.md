@@ -47,6 +47,18 @@ I turn data and business processes into analytics solutions that people actually
 
 <br/>
 
+## 🏠 Home lab
+
+A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and nothing exposed to the internet: from outside, everything goes through Tailscale.
+
+- 🔐 **Tailscale**: private access to the NAS from phone and laptops, with no open ports ([guide and compose](https://github.com/FabioCuccaro/ugreen_tailscale))
+- 🔔 **ntfy**: self-hosted push notifications to my phone, login required, reachable only over Tailscale ([guide](https://github.com/FabioCuccaro/ugreen_tailscale/blob/main/docs/ntfy.md))
+- ❤️ **Health dashboard**: an ETL and dashboard on my Oura Ring data, built with Observable Framework (private repo)
+- 📸 **Immich** *(in progress)*: moving off Google Photos to a self-hosted library, reading the phone backup the NAS already syncs
+- 🎬 **Plex** and **qBittorrent** for media
+
+<br/>
+
 
 ## 🏅 Certifications
 
