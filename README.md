@@ -22,7 +22,7 @@ I turn data and business processes into analytics solutions that people actually
 
 <p align="center">
 
-<img src="https://davidalzamendi.com/wp-content/uploads/2023/05/Fabric_final_x256.png" height="48" alt="Power BI" title="Fabric" />
+<img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" height="48" alt="Power BI" title="Fabric" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="48" alt="Power BI" title="Power BI" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48" alt="Excel" title="Excel" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48" alt="SQL Server" title="SQL Server" />
