@@ -65,6 +65,8 @@ Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/u
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-<br/><br/>
+<br/>
+<br/>
+
 
 **Core skills:** Project Management · ETL · Data Modeling · Team Coordination
