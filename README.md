@@ -58,6 +58,8 @@ Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/u
 
 - **[ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale)**: Reach your UGREEN NAS (UGOS) from anywhere with Tailscale in Docker: no open ports, no Quick access or UGREENlink. Step-by-step guide and ready-to-paste compose files.
 
+- **[ugreen_immich](https://github.com/FabioCuccaro/ugreen_immich)**: Self-host Immich, a Google Photos alternative, on a UGREEN NAS (UGOS). It reads the photos the UGREEN app already syncs, without copying them, and is reachable only through Tailscale. Ready-to-paste compose and a step-by-step guide.
+
 ## 🏠 Home lab
 
 A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and nothing exposed to the internet: from outside, everything goes through Tailscale.
@@ -65,5 +67,5 @@ A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and no
 - 🔐 **Tailscale**: private access to the NAS from phone and laptops, with no open ports ([guide and compose](https://github.com/FabioCuccaro/ugreen_tailscale))
 - 🔔 **ntfy**: self-hosted push notifications to my phone, login required, reachable only over Tailscale ([guide](https://github.com/FabioCuccaro/ugreen_tailscale/blob/main/docs/ntfy.md))
 - ❤️ **Health dashboard**: an ETL and dashboard on my Oura Ring data, built with Observable Framework (private repo)
-- 📸 **Immich** *(in progress)*: moving off Google Photos to a self-hosted library, reading the phone backup the NAS already syncs
+- 📸 **Immich**: a self-hosted Google Photos replacement, reading the phone backup the NAS already syncs ([guide and compose](https://github.com/FabioCuccaro/ugreen_immich))
 - 🎬 **Plex** and **qBittorrent** for media
