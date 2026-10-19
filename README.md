@@ -56,6 +56,8 @@ Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/u
 
 - **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: An Omarchy shell plugin to arrange your displays visually: drag monitors into place with snapping, pick resolution, scale, rotation, VRR and mirroring, try the layout live with an automatic rollback, then save
 
+- **[omarchy_touchpad_manager](https://github.com/FabioCuccaro/omarchy_touchpad_manager)**: Touchpad settings panel for the Omarchy shell: live-tune scrolling, pointer, clicking, gestures and per-app scroll speed on Hyprland, with profiles.
+
 - **[ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale)**: Reach your UGREEN NAS (UGOS) from anywhere with Tailscale in Docker: no open ports, no Quick access or UGREENlink. Step-by-step guide and ready-to-paste compose files.
 
 - **[ugreen_immich](https://github.com/FabioCuccaro/ugreen_immich)**: Self-host Immich, a Google Photos alternative, on a UGREEN NAS (UGOS). It reads the photos the UGREEN app already syncs, without copying them, and is reachable only through Tailscale. Ready-to-paste compose and a step-by-step guide.
