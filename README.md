@@ -32,11 +32,14 @@ I turn data and business processes into analytics solutions that people actually
 **Development & tooling**
 
 <p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="48" alt="Python" title="Python" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" height="48" alt="Docker" title="Docker" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" height="48" alt="GitHub Actions" title="GitHub Actions" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="48" alt="Git" title="Git" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="48" alt="GitHub" title="GitHub" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="48" alt="VS Code" title="VS Code" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude" title="Claude" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="48" alt="ChatGPT" title="Visual Studio" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="48" alt="Visual Studio" title="Visual Studio" />
 <br/><br/>
 <a href="https://omarchy.org"><img src="https://omarchy.org/brand/omarchy-wordmark.png" height="28" alt="Omarchy" title="Omarchy" /></a>
 </p>
@@ -54,6 +57,8 @@ Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/u
 
 ## 📌 Projects
 
+- **Personal health analytics** (private repo): an end-to-end BI pipeline on my own Oura Ring data. A Python ETL pulls the Oura API v2 (OAuth2) twice a day, keeps the raw JSON and writes one Parquet file per data type; it runs on my NAS from a Docker image that GitHub Actions builds on every push. On top of it: a web dashboard built with Observable Framework and DuckDB-WASM (queries run in the browser) and a Power BI report with a shared date table. The data never leaves my home network.
+
 - **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: An Omarchy shell plugin to arrange your displays visually: drag monitors into place with snapping, pick resolution, scale, rotation, VRR and mirroring, try the layout live with an automatic rollback, then save
 
 - **[omarchy_touchpad_manager](https://github.com/FabioCuccaro/omarchy_touchpad_manager)**: Touchpad settings panel for the Omarchy shell: live-tune scrolling, pointer, clicking, gestures and per-app scroll speed on Hyprland, with profiles.
@@ -68,6 +73,6 @@ A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and no
 
 - 🔐 **Tailscale**: private access to the NAS from phone and laptops, with no open ports ([guide and compose](https://github.com/FabioCuccaro/ugreen_tailscale))
 - 🔔 **ntfy**: self-hosted push notifications to my phone, login required, reachable only over Tailscale ([guide](https://github.com/FabioCuccaro/ugreen_tailscale/blob/main/docs/ntfy.md))
-- ❤️ **Health dashboard**: an ETL and dashboard on my Oura Ring data, built with Observable Framework (private repo)
+- ❤️ **Health dashboard**: the Oura Ring pipeline and dashboard described in Projects (private repo)
 - 📸 **Immich**: a self-hosted Google Photos replacement, reading the phone backup the NAS already syncs ([guide and compose](https://github.com/FabioCuccaro/ugreen_immich))
 - 🎬 **Plex** and **qBittorrent** for media
