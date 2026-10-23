@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="nightdevs_banner.gif" width="100%" alt="NightDevs pixel art banner" />
+</p>
+
 <h1 align="center">Hi, I'm Fabio 👋</h1>
 <p align="center"><b>Associate Manager · Business Analytics & BI</b><br>
 I turn data and business processes into analytics solutions that people actually use.</p>
