@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nightdevs_banner.gif" width="80%" alt="NightDevs pixel art banner" />
+  <img src="nightdevs_combo.gif" width="80%" alt="NightDevs Combo pixel art banner" />
 </p>
 
 <h1 align="center">Hi, I'm Fabio 👋</h1>
