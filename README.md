@@ -79,4 +79,6 @@ A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and no
 - 🔔 **ntfy**: self-hosted push notifications to my phone, login required, reachable only over Tailscale ([guide](https://github.com/FabioCuccaro/ugreen_tailscale/blob/main/docs/ntfy.md))
 - ❤️ **Health dashboard**: the Oura Ring pipeline and dashboard described in Projects (private repo)
 - 📸 **Immich**: a self-hosted Google Photos replacement, reading the phone backup the NAS already syncs ([guide and compose](https://github.com/FabioCuccaro/ugreen_immich))
-- 🎬 **Plex** and **qBittorrent** for media
+- 🏋️ **openGym**: a self-hosted workout log with passkey login, served over HTTPS only inside the tailnet
+- 🎬 **Jellyfin** (replacing Plex, with Intel QuickSync hardware transcoding) and **qBittorrent** for media
+- 🧭 **Homepage**: one page linking every service with a live up/down dot, laid out two per row so it fits a phone screen and installed as an app
