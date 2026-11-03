@@ -1,86 +1,35 @@
-<p align="center">
-  <img src="nightdevs_combo.gif" width="80%" alt="NightDevs Combo pixel art banner" />
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Fabio Cuccaro: Associate Manager, Business Analytics & BI"></picture></p>
 
-<h1 align="center">Hi, I'm Fabio 👋</h1>
-<p align="center"><b>Associate Manager · Business Analytics & BI</b><br>
-I turn data and business processes into analytics solutions that people actually use.</p>
+<p align="center"><a href="https://www.linkedin.com/in/fabio-cuccaro-91007487"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-in-dark.svg"><img src="assets/key-in-light.svg" alt="LinkedIn" width="180"></picture></a><a href="mailto:whisperer100@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-mail-dark.svg"><img src="assets/key-mail-light.svg" alt="Email" width="180"></picture></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabio-cuccaro-91007487"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:whisperer100@gmail.com"><img src="https://img.shields.io/badge/Email-F27D0D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-1-dark.svg"><img src="assets/label-1-light.svg" alt="01 About"></picture>
 
-## 🙋 About me
+- **Associate Manager at Avanade** (since 2024): I lead projects and teams delivering analysis and development for data solutions
+- 8+ years in Business Analytics, from ETL developer to project lead, always focused on BI, data integration and reporting
+- MSc in Management and Information Technology (University of Salerno), BSc in Computer Science (University of Molise)
+- Based in Bologna, Italy. On the side I build tools for Linux/Hyprland ([Omarchy](https://omarchy.org)) and tinker with Lua/LÖVE, Strudel and Power BI
 
-- 💼 **Associate Manager at Avanade** (since 2024): I lead projects and teams delivering analysis and development for data solutions
-- 📊 8+ years in Business Analytics, from ETL developer to project lead, always focused on BI, data integration and reporting
-- 🎓 MSc in Management and Information Technology (University of Salerno) and BSc in Computer Science (University of Molise)
-- 📍 Based in Bologna, Italy
-- 🛠️ On the side, I build tools for Linux/Hyprland ([Omarchy](https://omarchy.org)) and tinker with Lua/LÖVE, Strudel and Power BI
-- 🤖 I use Claude Code in my development workflow
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-2-dark.svg"><img src="assets/label-2-light.svg" alt="02 Projects"></picture>
 
-**Core skills:** Project Management · ETL · Data Modeling · Team Coordination
+<p align="center"><a href="https://cedoli.it"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-1-dark.svg"><img src="assets/key-1-light.svg" alt="Cedolì" width="136"></picture></a><a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-2-dark.svg"><img src="assets/key-2-light.svg" alt="Personal health analytics" width="136"></picture></a><a href="https://github.com/FabioCuccaro/omarchy_monitor_manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-3-dark.svg"><img src="assets/key-3-light.svg" alt="omarchy_monitor_manager" width="136"></picture></a><a href="https://github.com/FabioCuccaro/omarchy_touchpad_manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-4-dark.svg"><img src="assets/key-4-light.svg" alt="omarchy_touchpad_manager" width="136"></picture></a><a href="https://github.com/FabioCuccaro/ugreen_tailscale"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-5-dark.svg"><img src="assets/key-5-light.svg" alt="ugreen_tailscale" width="136"></picture></a><a href="https://github.com/FabioCuccaro/ugreen_immich"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/key-6-dark.svg"><img src="assets/key-6-light.svg" alt="ugreen_immich" width="136"></picture></a></p>
 
-## 🧰 Tech I work with
+`01` **[Cedolì](https://cedoli.it)** ([source](https://github.com/FabioCuccaro/cedoli)): a free offline app that explains Italian payslips line by line and redoes the math from gross to net. No account, no cloud, no AI.<br>
+`02` **Personal health analytics** (private): an end-to-end BI pipeline on my Oura Ring data. Python ETL to Parquet on my NAS, dashboard with Observable Framework and DuckDB-WASM, plus a Power BI report.<br>
+`03` **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: arrange your displays visually in the Omarchy shell, try the layout live with automatic rollback.<br>
+`04` **[omarchy_touchpad_manager](https://github.com/FabioCuccaro/omarchy_touchpad_manager)**: live-tune scrolling, pointer, gestures and per-app scroll speed on Hyprland, with profiles.<br>
+`05` **[ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale)**: reach a UGREEN NAS from anywhere with Tailscale in Docker, no open ports.<br>
+`06` **[ugreen_immich](https://github.com/FabioCuccaro/ugreen_immich)**: self-host Immich on a UGREEN NAS, reading the photos the UGREEN app already syncs.
 
-**Data & BI**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-3-dark.svg"><img src="assets/label-3-light.svg" alt="03 Stack"></picture>
 
-<p align="center">
-<img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" height="48" alt="Fabric" title="Fabric" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="48" alt="Power BI" title="Power BI" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48" alt="Excel" title="Excel" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48" alt="SQL Server" title="SQL Server" />
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Tech stack"></picture></p>
 
-**Development & tooling**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-4-dark.svg"><img src="assets/label-4-light.svg" alt="04 Home lab"></picture>
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="48" alt="Python" title="Python" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" height="48" alt="Docker" title="Docker" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" height="48" alt="GitHub Actions" title="GitHub Actions" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="48" alt="Git" title="Git" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="48" alt="GitHub" title="GitHub" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="48" alt="VS Code" title="VS Code" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude" title="Claude" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="48" alt="Visual Studio" title="Visual Studio" />
-<br/><br/>
-<a href="https://omarchy.org"><img src="https://omarchy.org/brand/omarchy-wordmark.png" height="28" alt="Omarchy" title="Omarchy" /></a>
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/homelab-dark.svg"><img src="assets/homelab-light.svg" alt="Home lab: UGREEN NAS, services in Docker, reachable only through Tailscale"></picture></p>
 
-## 🏅 Certifications
+Every service runs as a Docker Project on UGOS and nothing is exposed to the internet: from outside, everything goes through Tailscale. Guides and compose files in [ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale) and [ugreen_immich](https://github.com/FabioCuccaro/ugreen_immich).
 
-<a href="https://learn.microsoft.com/en-us/users/fabiocuccaro-9952/credentials/ea86da04af07f9ca">
-  <img src="https://vaclavryska.com/wp-content/uploads/2021/03/microsoft-certified-associate-badge.svg" height="48" align="left" hspace="12" alt="Microsoft Certified: Associate badge" title="Microsoft Certified: Fabric Data Engineer Associate (DP-700)" />
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-5-dark.svg"><img src="assets/label-5-light.svg" alt="05 Certifications"></picture>
 
-**Microsoft Certified: Fabric Data Engineer Associate** (DP-700)<br>
-Microsoft · Jan 2025 · [Verify credential](https://learn.microsoft.com/en-us/users/fabiocuccaro-9952/credentials/ea86da04af07f9ca)
-
-<br clear="left"/>
-
-## 📌 Projects
-
-- **[Cedolì](https://cedoli.it)** ([source](https://github.com/FabioCuccaro/cedoli)): a free app for Windows (and Linux/macOS) that explains Italian payslips line by line, redoes the math from gross to net, flags the numbers that don't add up and keeps a month-by-month history. It runs fully offline: no account, no cloud, no AI, and the payslips never leave the PC, with step-by-step checks anyone can do to verify it. Python with pdfplumber, pydantic and Jinja2, a local web UI shipped as a single Windows executable, and the tax rules for each year kept in YAML. The source is public so the privacy claims can be checked, but it is not open for reuse.
-
-- **Personal health analytics** (private repo): an end-to-end BI pipeline on my own Oura Ring data. A Python ETL pulls the Oura API v2 (OAuth2) twice a day, keeps the raw JSON and writes one Parquet file per data type; it runs on my NAS from a Docker image that GitHub Actions builds on every push. On top of it: a web dashboard built with Observable Framework and DuckDB-WASM (queries run in the browser) and a Power BI report with a shared date table. The data never leaves my home network.
-
-- **[omarchy_monitor_manager](https://github.com/FabioCuccaro/omarchy_monitor_manager)**: An Omarchy shell plugin to arrange your displays visually: drag monitors into place with snapping, pick resolution, scale, rotation, VRR and mirroring, try the layout live with an automatic rollback, then save
-
-- **[omarchy_touchpad_manager](https://github.com/FabioCuccaro/omarchy_touchpad_manager)**: Touchpad settings panel for the Omarchy shell: live-tune scrolling, pointer, clicking, gestures and per-app scroll speed on Hyprland, with profiles.
-
-- **[ugreen_tailscale](https://github.com/FabioCuccaro/ugreen_tailscale)**: Reach your UGREEN NAS (UGOS) from anywhere with Tailscale in Docker: no open ports, no Quick access or UGREENlink. Step-by-step guide and ready-to-paste compose files.
-
-- **[ugreen_immich](https://github.com/FabioCuccaro/ugreen_immich)**: Self-host Immich, a Google Photos alternative, on a UGREEN NAS (UGOS). It reads the photos the UGREEN app already syncs, without copying them, and is reachable only through Tailscale. Ready-to-paste compose and a step-by-step guide.
-
-## 🏠 Home lab
-
-A UGREEN DXP2800 NAS running UGOS, with every service as a Docker Project and nothing exposed to the internet: from outside, everything goes through Tailscale.
-
-- 🔐 **Tailscale**: private access to the NAS from phone and laptops, with no open ports ([guide and compose](https://github.com/FabioCuccaro/ugreen_tailscale))
-- 🔔 **ntfy**: self-hosted push notifications to my phone, login required, reachable only over Tailscale ([guide](https://github.com/FabioCuccaro/ugreen_tailscale/blob/main/docs/ntfy.md))
-- ❤️ **Health dashboard**: the Oura Ring pipeline and dashboard described in Projects (private repo)
-- 📸 **Immich**: a self-hosted Google Photos replacement, reading the phone backup the NAS already syncs ([guide and compose](https://github.com/FabioCuccaro/ugreen_immich))
-- 🏋️ **openGym**: a self-hosted workout log with passkey login, served over HTTPS only inside the tailnet
-- 🎬 **Jellyfin** (replacing Plex, with Intel QuickSync hardware transcoding) and **qBittorrent** for media
-- 🧭 **Homepage**: one page linking every service with a live up/down dot, laid out two per row so it fits a phone screen and installed as an app
+<p align="center"><a href="https://learn.microsoft.com/en-us/users/fabiocuccaro-9952/credentials/ea86da04af07f9ca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-dark.svg"><img src="assets/cert-light.svg" alt="Microsoft Certified: Fabric Data Engineer Associate (DP-700)"></picture></a></p>
